@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 23 20:26:32 2020
 
-@author: admin
-"""
 
 import speech_recognition as sr
 import pyttsx3
